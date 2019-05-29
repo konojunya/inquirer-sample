@@ -1,0 +1,11 @@
+{
+  "name": "inquirer-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/konojunya/inquirer-sample.git",
+  "author": "konojunya <junya03dance@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
